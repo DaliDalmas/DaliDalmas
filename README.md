@@ -7,10 +7,10 @@
 &nbsp;&nbsp;<a href='https://www.youtube.com/channel/UCzSlSeJ4XH4bWH79DKmIxjg'><img src='images/youtube.png' height='100'/></a>
 &nbsp;&nbsp;<a href='https://www.reddit.com/r/DaliCodes/'><img src='images/reddit.png' height='100'/></a>
 
-- 👋 Hi, I’m @DaliDalmas
-- 👀 I’m interested in Data Science and Data Engineering. But Recently I have been gaining intrest in software engineering.
-- 🌱 I’m currently doing youtube videos for data science https://www.youtube.com/channel/UCzSlSeJ4XH4bWH79DKmIxjg
-- 💞️ I’m looking to collaborate on Data Science and Data Engineering projects
+- 👋 Hi, I’m Dalmas Otieno
+- 👀 I’m interested in Data Science and Data Engineering. But Recently I have been gaining intrest in DevOps.
+- 🌱 I’m currently doing youtube videos for data science. You can check my youtube above and subscribe to see me working on data science and data engineering projects.
+- 💞️ I’m looking to collaborate on Data Science and Data Engineering projects.
 - 📫 How to reach me dalmas@dalicodes.com
 
 <!---
