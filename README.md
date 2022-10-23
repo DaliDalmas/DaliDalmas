@@ -1,11 +1,11 @@
 # Welcome to `Dalmas Otieno` main account
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://twitter.com/DaliDalmas' target="_blank"><img src='images/twitter.png' height='100'/></a>
-&nbsp;&nbsp;<a href='https://www.linkedin.com/in/dalmas-otieno-525b1b155/' target="_blank"><img src='images/linkedin.png' height='100'/></a>
-&nbsp;&nbsp;<a href='https://stackoverflow.com/users/19800108/dalmas-otieno' target="_blank"><img src='images/stackoverflow.png' height='100'/></a>
-&nbsp;&nbsp;<a href='https://www.youtube.com/channel/UCzSlSeJ4XH4bWH79DKmIxjg' target="_blank"><img src='images/youtube.png' height='100'/></a>
-&nbsp;&nbsp;<a href='https://www.reddit.com/r/DaliCodes/' target="_blank"><img src='images/reddit.png' height='100'/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://twitter.com/DaliDalmas' target="_blank" rel="noopener noreferrer"><img src='images/twitter.png' height='100'/></a>
+&nbsp;&nbsp;<a href='https://www.linkedin.com/in/dalmas-otieno-525b1b155/' target="_blank" rel="noopener noreferrer"><img src='images/linkedin.png' height='100'/></a>
+&nbsp;&nbsp;<a href='https://stackoverflow.com/users/19800108/dalmas-otieno' target="_blank" rel="noopener noreferrer"><img src='images/stackoverflow.png' height='100'/></a>
+&nbsp;&nbsp;<a href='https://www.youtube.com/channel/UCzSlSeJ4XH4bWH79DKmIxjg' target="_blank" rel="noopener noreferrer"><img src='images/youtube.png' height='100'/></a>
+&nbsp;&nbsp;<a href='https://www.reddit.com/r/DaliCodes/' target="_blank" rel="noopener noreferrer"><img src='images/reddit.png' height='100'/></a>
 
 - 👋 Hi, I’m Dalmas Otieno
 - 👀 I’m interested in Data Science and Data Engineering. But Recently I have been gaining intrest in DevOps.
